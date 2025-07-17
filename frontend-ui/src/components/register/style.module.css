@@ -1,0 +1,29 @@
+.form_register {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.continer_form_register {
+  background: #1F2937;
+  padding: 20px;
+  border-radius: 16px;
+  width: 28%;
+  height: 30rem;
+  color: white;
+  padding: 2rem 2rem 2rem 2rem;
+}
+
+.h1 {
+  text-align: center;
+  font-size: xxx-large;
+  margin-bottom: 1rem !important;
+  font-weight: bold;
+}
